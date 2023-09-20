@@ -1,7 +1,7 @@
 # CINT
 City Net Zero Tool
 
-![alt text](http://url/to/img.png](https://github.com/seelca/CINT/blob/main/CINT_front.PNG)
+![alt text](https://github.com/seelca/CINT/blob/main/CINT_front.PNG)
 
 Understanding the impact of urban communities on net zero targets and sustainable future agendas can be a daunting task. The behaviour of residents is deeply related to the physical characteristics of our cities. But what if we could calculate and visualise in real-time how sustainable our cities and neighbourhoods are today, how they have been in the past and –more importantly—how they could be in the future?
 
